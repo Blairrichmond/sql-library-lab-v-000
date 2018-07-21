@@ -1,1 +1,1 @@
-"SELECT species FROM characters WHERE id = 8 INSERT INTO characters (species) VALUES ('Martian')"
+"INSERT INTO species FROM characters WHERE id = 8 VALUES ('Martian')"
